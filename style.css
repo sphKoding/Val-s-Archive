@@ -1,3 +1,18 @@
 body {
     font-size: 15pt;
 }
+
+/* header styles */
+header {
+    text-align: center;
+}
+
+/* sections style */
+section div {
+    border: 1px solid #ccc;
+    padding: 16px; max-width: 400px;
+}
+div img {
+    width: 100%; 
+    height: auto;
+}
